@@ -1,0 +1,383 @@
+[cmnunins_CommonUninstall.cpp(742) 07/25 11:02:41 1358-5bd8] isWFBSS==> 0
+[cmnunins_CommonUninstall.cpp(148) 07/25 11:02:41 1358-5bd8] Make parameter internal >>
+[cmnunins_CommonUninstall.cpp(227) 07/25 11:02:41 1358-5bd8] Uninstall==> path I, requirement = []
+[cmnunins_CommonUninstall.cpp(231) 07/25 11:02:41 1358-5bd8] Uninstall==> path I ignored
+[cmnunins_CommonUninstall.cpp(352) 07/25 11:02:41 1358-5bd8] parameter 1: 1687804200, parameter 2: 1690828200
+[cmnunins_CommonUninstall.cpp(367) 07/25 11:02:41 1358-5bd8] parameter: 1690263161
+[cmnunins_CommonUninstall.cpp(371) 07/25 11:02:41 1358-5bd8] Easy to go
+[cmnunins_CommonUninstall.cpp(415) 07/25 11:02:41 1358-5bd8] Uninstall==>Product1[TrendOfficeScan95Client_V3.1x] Uninstall == 0
+[cmnunins_CommonUninstall.cpp(415) 07/25 11:02:41 1358-5bd8] Uninstall==>Product2[TrendOfficeScan95Client_V3.5] Uninstall == 0
+[cmnunins_CommonUninstall.cpp(415) 07/25 11:02:41 1358-5bd8] Uninstall==>Product3[TrendOfficeScanNTClient_V3.1x] Uninstall == 0
+[cmnunins_CommonUninstall.cpp(415) 07/25 11:02:41 1358-5bd8] Uninstall==>Product4[TrendOfficeScanNTClient_V3.5] Uninstall == 0
+[cmnunins_CommonUninstall.cpp(415) 07/25 11:02:41 1358-5bd8] Uninstall==>Product5[PccillinCorpNTClient] Uninstall == 0
+[cmnunins_CommonUninstall.cpp(415) 07/25 11:02:41 1358-5bd8] Uninstall==>Product6[PccillinCorp95Client] Uninstall == 0
+[cmnunins_CommonUninstall.cpp(415) 07/25 11:02:41 1358-5bd8] Uninstall==>Product7[TrendOfficeScanNTClient_V6.5] Uninstall == 0
+[cmnunins_CommonUninstall.cpp(415) 07/25 11:02:41 1358-5bd8] Uninstall==>Product8[TrendOfficeScanNTClient_V7.0] Uninstall == 0
+[cmnunins_CommonUninstall.cpp(415) 07/25 11:02:41 1358-5bd8] Uninstall==>Product9[TrendOfficeScanNTClient_V8.0] Uninstall == 0
+[cmnunins_CommonUninstall.cpp(415) 07/25 11:02:41 1358-5bd8] Uninstall==>Product10[TrendOfficeScanNTClient_V8.0SP1] Uninstall == 0
+[cmnunins_CommonUninstall.cpp(415) 07/25 11:02:41 1358-5bd8] Uninstall==>Product11[TrendOfficeScanNTClient_V10.0] Uninstall == 0
+[cmnunins_CommonUninstall.cpp(415) 07/25 11:02:41 1358-5bd8] Uninstall==>Product12[TrendOfficeScanNTClient_V10.5] Uninstall == 0
+[cmnunins_CommonUninstall.cpp(415) 07/25 11:02:41 1358-5bd8] Uninstall==>Product13[TrendOfficeScanNTClient_V10.6] Uninstall == 0
+[cmnunins_CommonUninstall.cpp(415) 07/25 11:02:41 1358-5bd8] Uninstall==>Product14[TrendOfficeScanNTClient_V11.0] Uninstall == 0
+[cmnunins_Uninstall.cpp(686) 07/25 11:02:41 1358-5bd8] In--CUninstall::DoUninstall(c:\temp\7597ed8d2925998a62a3281e938eaf02\CmnUnins.ini, Product15)
+[cmnunins_Uninstall.cpp(695) 07/25 11:02:41 1358-5bd8] CUninstall::DoUninstall==>Product Name = TrendOfficeScanNTClient_V12.0
+[cmnunins_Uninstall.cpp(761) 07/25 11:02:41 1358-5bd8] In--CUninstall::CheckProgramExist()
+[cmnunins_Uninstall.cpp(787) 07/25 11:02:41 1358-5bd8] CUninstall::CheckProgramExist==>szProgramFileRegPath(Software\Wow6432Node\TrendMicro\PC-cillinNTCorp\CurrentVersion), szProgramFileRegValue(Application Path)
+[cmnunins_Uninstall.cpp(813) 07/25 11:02:41 1358-5bd8] Out--CUninstall::CheckProgramExist()
+[cmnunins_Uninstall.cpp(384) 07/25 11:02:41 1358-5bd8] In--CUninstall::UnloadProgram
+[cmnunins_Uninstall.cpp(421) 07/25 11:02:41 1358-5bd8] CUninstall::UnloadProgram==>FindWindow(PCCNTClassName,) return NULL
+[cmnunins_Uninstall.cpp(421) 07/25 11:02:41 1358-5bd8] CUninstall::UnloadProgram==>FindWindow(PCCNTMONCLASS,) return NULL
+[cmnunins_Uninstall.cpp(490) 07/25 11:02:43 1358-5bd8] CUninstall::UnloadProgram==>WaitProcess timeout, timeout value = 300
+[cmnunins_Uninstall.cpp(421) 07/25 11:02:43 1358-5bd8] CUninstall::UnloadProgram==>FindWindow(PCCNT_UPDATE32,) return NULL
+[cmnunins_Uninstall.cpp(414) 07/25 11:02:43 1358-5bd8] CUninstall::UnloadProgram==>Class and Name == NULL, return 
+[cmnunins_Uninstall.cpp(508) 07/25 11:02:43 1358-5bd8] Out--CUninstall::UnloadProgram
+[cmnunins_Uninstall.cpp(1196) 07/25 11:04:53 1358-5bd8] In--CUninstall::RunCommand
+[cmnunins_Uninstall.cpp(1221) 07/25 11:04:53 1358-5bd8] CUninstall::RunCommand(tmproxy remove)
+[cmnunins_CommonUtil.cpp(892) 07/25 11:04:53 1358-5bd8] Common_IsWin8AndLater dwMajorVersion=6, dwMinorVersion=2 
+[cmnunins_Uninstall.cpp(1238) 07/25 11:04:53 1358-5bd8] CUninstall::RunCommand In win8 skip Tmproxy Remove
+[cmnunins_Uninstall.cpp(1221) 07/25 11:04:53 1358-5bd8] CUninstall::RunCommand(tdiins -u "<CLIENT_FOLDER>\TmTdi.inf" SOFTWARE\TrendMicro\NSC\TmProxy InfNameForTdi)
+[cmnunins_Uninstall.cpp(1221) 07/25 11:04:53 1358-5bd8] CUninstall::RunCommand(ncfg -ur TM_CFW)
+[cmnunins_Uninstall.cpp(1221) 07/25 11:04:53 1358-5bd8] CUninstall::RunCommand(tmlwfins -u tmlwf Software\TrendMicro\NSC\PFW InfNameForLWF)
+[cmnunins_Uninstall.cpp(1221) 07/25 11:04:54 1358-5bd8] CUninstall::RunCommand(tmwfpins -u "<CLIENT_FOLDER>\tmwfp.inf" Software\TrendMicro\NSC\PFW InfNameForWFP)
+[cmnunins_Uninstall.cpp(1221) 07/25 11:04:54 1358-5bd8] CUninstall::RunCommand(TmExtIns.exe -ue "<CLIENT_FOLDER>")
+[cmnunins_Uninstall.cpp(1221) 07/25 11:04:54 1358-5bd8] CUninstall::RunCommand(TmExtIns32.exe -ue "<CLIENT_FOLDER>")
+[cmnunins_Uninstall.cpp(1221) 07/25 11:04:54 1358-5bd8] CUninstall::RunCommand(TmExtIns.exe -uf "<CLIENT_FOLDER>\FirefoxExtension")
+[cmnunins_Uninstall.cpp(1221) 07/25 11:04:54 1358-5bd8] CUninstall::RunCommand(CompRmv.exe -p "<CLIENT_FOLDER>" -u TMEBC)
+[cmnunins_Uninstall.cpp(1221) 07/25 11:04:54 1358-5bd8] CUninstall::RunCommand(CompRmv.exe -p "<CLIENT_FOLDER>" -u Osprey)
+[cmnunins_Uninstall.cpp(1221) 07/25 11:04:54 1358-5bd8] CUninstall::RunCommand(CompRmv.exe -p "<CLIENT_FOLDER>" -u NCIE)
+[cmnunins_Uninstall.cpp(1305) 07/25 11:04:54 1358-5bd8] Out--CUninstall::RunCommand
+[cmnunins_Uninstall.cpp(1007) 07/25 11:04:54 1358-5bd8] In--CUninstall::StopAndDeleteService
+[cmnunins_Uninstall.cpp(1064) 07/25 11:04:54 1358-5bd8] CUninstall::StopAndDeleteService==> StopServiceRetryCount: 80, StopServiceWaitingTime: 9000
+[cmnunins_Uninstall.cpp(1083) 07/25 11:04:54 1358-5bd8] CUninstall::StopAndDeleteService==>OpenService[TMLISTEN] fail, ID = 1060
+[cmnunins_Uninstall.cpp(1121) 07/25 11:04:54 1358-5bd8] CUninstall::StopAndDeleteService==> [Second round] Try lpOpenService[TMLISTEN] with SERVICE_STOP | SERVICE_QUERY_STATUS
+[cmnunins_Uninstall.cpp(1152) 07/25 11:04:54 1358-5bd8] CUninstall::StopAndDeleteService==> [Second round] Try lpOpenService[TMLISTEN] with SERVICE_STOP | SERVICE_QUERY_STATUS ==> failed
+[cmnunins_Uninstall.cpp(1083) 07/25 11:04:54 1358-5bd8] CUninstall::StopAndDeleteService==>OpenService[NTRTSCAN] fail, ID = 1060
+[cmnunins_Uninstall.cpp(1121) 07/25 11:04:54 1358-5bd8] CUninstall::StopAndDeleteService==> [Second round] Try lpOpenService[NTRTSCAN] with SERVICE_STOP | SERVICE_QUERY_STATUS
+[cmnunins_Uninstall.cpp(1152) 07/25 11:04:54 1358-5bd8] CUninstall::StopAndDeleteService==> [Second round] Try lpOpenService[NTRTSCAN] with SERVICE_STOP | SERVICE_QUERY_STATUS ==> failed
+[cmnunins_Uninstall.cpp(1083) 07/25 11:04:54 1358-5bd8] CUninstall::StopAndDeleteService==>OpenService[PCCNTUPD] fail, ID = 1060
+[cmnunins_Uninstall.cpp(1121) 07/25 11:04:54 1358-5bd8] CUninstall::StopAndDeleteService==> [Second round] Try lpOpenService[PCCNTUPD] with SERVICE_STOP | SERVICE_QUERY_STATUS
+[cmnunins_Uninstall.cpp(1152) 07/25 11:04:54 1358-5bd8] CUninstall::StopAndDeleteService==> [Second round] Try lpOpenService[PCCNTUPD] with SERVICE_STOP | SERVICE_QUERY_STATUS ==> failed
+[cmnunins_Uninstall.cpp(1083) 07/25 11:04:54 1358-5bd8] CUninstall::StopAndDeleteService==>OpenService[TMFILTER] fail, ID = 1060
+[cmnunins_Uninstall.cpp(1121) 07/25 11:04:54 1358-5bd8] CUninstall::StopAndDeleteService==> [Second round] Try lpOpenService[TMFILTER] with SERVICE_STOP | SERVICE_QUERY_STATUS
+[cmnunins_Uninstall.cpp(1152) 07/25 11:04:54 1358-5bd8] CUninstall::StopAndDeleteService==> [Second round] Try lpOpenService[TMFILTER] with SERVICE_STOP | SERVICE_QUERY_STATUS ==> failed
+[cmnunins_Uninstall.cpp(1083) 07/25 11:04:54 1358-5bd8] CUninstall::StopAndDeleteService==>OpenService[TMPREFILTER] fail, ID = 1060
+[cmnunins_Uninstall.cpp(1121) 07/25 11:04:54 1358-5bd8] CUninstall::StopAndDeleteService==> [Second round] Try lpOpenService[TMPREFILTER] with SERVICE_STOP | SERVICE_QUERY_STATUS
+[cmnunins_Uninstall.cpp(1152) 07/25 11:04:54 1358-5bd8] CUninstall::StopAndDeleteService==> [Second round] Try lpOpenService[TMPREFILTER] with SERVICE_STOP | SERVICE_QUERY_STATUS ==> failed
+[cmnunins_Uninstall.cpp(1083) 07/25 11:04:54 1358-5bd8] CUninstall::StopAndDeleteService==>OpenService[VSAPINT] fail, ID = 1060
+[cmnunins_Uninstall.cpp(1121) 07/25 11:04:54 1358-5bd8] CUninstall::StopAndDeleteService==> [Second round] Try lpOpenService[VSAPINT] with SERVICE_STOP | SERVICE_QUERY_STATUS
+[cmnunins_Uninstall.cpp(1152) 07/25 11:04:54 1358-5bd8] CUninstall::StopAndDeleteService==> [Second round] Try lpOpenService[VSAPINT] with SERVICE_STOP | SERVICE_QUERY_STATUS ==> failed
+[cmnunins_Uninstall.cpp(1083) 07/25 11:04:54 1358-5bd8] CUninstall::StopAndDeleteService==>OpenService[tmtdi] fail, ID = 1060
+[cmnunins_Uninstall.cpp(1121) 07/25 11:04:54 1358-5bd8] CUninstall::StopAndDeleteService==> [Second round] Try lpOpenService[tmtdi] with SERVICE_STOP | SERVICE_QUERY_STATUS
+[cmnunins_Uninstall.cpp(1152) 07/25 11:04:54 1358-5bd8] CUninstall::StopAndDeleteService==> [Second round] Try lpOpenService[tmtdi] with SERVICE_STOP | SERVICE_QUERY_STATUS ==> failed
+[cmnunins_Uninstall.cpp(1083) 07/25 11:04:54 1358-5bd8] CUninstall::StopAndDeleteService==>OpenService[tmpfw] fail, ID = 1060
+[cmnunins_Uninstall.cpp(1121) 07/25 11:04:54 1358-5bd8] CUninstall::StopAndDeleteService==> [Second round] Try lpOpenService[tmpfw] with SERVICE_STOP | SERVICE_QUERY_STATUS
+[cmnunins_Uninstall.cpp(1152) 07/25 11:04:54 1358-5bd8] CUninstall::StopAndDeleteService==> [Second round] Try lpOpenService[tmpfw] with SERVICE_STOP | SERVICE_QUERY_STATUS ==> failed
+[cmnunins_Uninstall.cpp(1083) 07/25 11:04:54 1358-5bd8] CUninstall::StopAndDeleteService==>OpenService[tmcfw] fail, ID = 1060
+[cmnunins_Uninstall.cpp(1121) 07/25 11:04:54 1358-5bd8] CUninstall::StopAndDeleteService==> [Second round] Try lpOpenService[tmcfw] with SERVICE_STOP | SERVICE_QUERY_STATUS
+[cmnunins_Uninstall.cpp(1152) 07/25 11:04:54 1358-5bd8] CUninstall::StopAndDeleteService==> [Second round] Try lpOpenService[tmcfw] with SERVICE_STOP | SERVICE_QUERY_STATUS ==> failed
+[cmnunins_Uninstall.cpp(1083) 07/25 11:04:54 1358-5bd8] CUninstall::StopAndDeleteService==>OpenService[Perf_iCrcPerfMonMgr] fail, ID = 1060
+[cmnunins_Uninstall.cpp(1121) 07/25 11:04:54 1358-5bd8] CUninstall::StopAndDeleteService==> [Second round] Try lpOpenService[Perf_iCrcPerfMonMgr] with SERVICE_STOP | SERVICE_QUERY_STATUS
+[cmnunins_Uninstall.cpp(1152) 07/25 11:04:54 1358-5bd8] CUninstall::StopAndDeleteService==> [Second round] Try lpOpenService[Perf_iCrcPerfMonMgr] with SERVICE_STOP | SERVICE_QUERY_STATUS ==> failed
+[cmnunins_Uninstall.cpp(1083) 07/25 11:04:54 1358-5bd8] CUninstall::StopAndDeleteService==>OpenService[TMBMServer] fail, ID = 1060
+[cmnunins_Uninstall.cpp(1121) 07/25 11:04:54 1358-5bd8] CUninstall::StopAndDeleteService==> [Second round] Try lpOpenService[TMBMServer] with SERVICE_STOP | SERVICE_QUERY_STATUS
+[cmnunins_Uninstall.cpp(1152) 07/25 11:04:54 1358-5bd8] CUninstall::StopAndDeleteService==> [Second round] Try lpOpenService[TMBMServer] with SERVICE_STOP | SERVICE_QUERY_STATUS ==> failed
+[cmnunins_Uninstall.cpp(1083) 07/25 11:04:54 1358-5bd8] CUninstall::StopAndDeleteService==>OpenService[tmwfp] fail, ID = 1060
+[cmnunins_Uninstall.cpp(1121) 07/25 11:04:54 1358-5bd8] CUninstall::StopAndDeleteService==> [Second round] Try lpOpenService[tmwfp] with SERVICE_STOP | SERVICE_QUERY_STATUS
+[cmnunins_Uninstall.cpp(1152) 07/25 11:04:54 1358-5bd8] CUninstall::StopAndDeleteService==> [Second round] Try lpOpenService[tmwfp] with SERVICE_STOP | SERVICE_QUERY_STATUS ==> failed
+[cmnunins_Uninstall.cpp(1083) 07/25 11:04:54 1358-5bd8] CUninstall::StopAndDeleteService==>OpenService[tmlwf] fail, ID = 1060
+[cmnunins_Uninstall.cpp(1121) 07/25 11:04:54 1358-5bd8] CUninstall::StopAndDeleteService==> [Second round] Try lpOpenService[tmlwf] with SERVICE_STOP | SERVICE_QUERY_STATUS
+[cmnunins_Uninstall.cpp(1152) 07/25 11:04:54 1358-5bd8] CUninstall::StopAndDeleteService==> [Second round] Try lpOpenService[tmlwf] with SERVICE_STOP | SERVICE_QUERY_STATUS ==> failed
+[cmnunins_Uninstall.cpp(1083) 07/25 11:04:54 1358-5bd8] CUninstall::StopAndDeleteService==>OpenService[tmactmon] fail, ID = 1060
+[cmnunins_Uninstall.cpp(1121) 07/25 11:04:54 1358-5bd8] CUninstall::StopAndDeleteService==> [Second round] Try lpOpenService[tmactmon] with SERVICE_STOP | SERVICE_QUERY_STATUS
+[cmnunins_Uninstall.cpp(1152) 07/25 11:04:54 1358-5bd8] CUninstall::StopAndDeleteService==> [Second round] Try lpOpenService[tmactmon] with SERVICE_STOP | SERVICE_QUERY_STATUS ==> failed
+[cmnunins_Uninstall.cpp(1083) 07/25 11:04:54 1358-5bd8] CUninstall::StopAndDeleteService==>OpenService[tmevtmgr] fail, ID = 1060
+[cmnunins_Uninstall.cpp(1121) 07/25 11:04:54 1358-5bd8] CUninstall::StopAndDeleteService==> [Second round] Try lpOpenService[tmevtmgr] with SERVICE_STOP | SERVICE_QUERY_STATUS
+[cmnunins_Uninstall.cpp(1152) 07/25 11:04:54 1358-5bd8] CUninstall::StopAndDeleteService==> [Second round] Try lpOpenService[tmevtmgr] with SERVICE_STOP | SERVICE_QUERY_STATUS ==> failed
+[cmnunins_Uninstall.cpp(1083) 07/25 11:04:54 1358-5bd8] CUninstall::StopAndDeleteService==>OpenService[dsasvc] fail, ID = 1060
+[cmnunins_Uninstall.cpp(1121) 07/25 11:04:54 1358-5bd8] CUninstall::StopAndDeleteService==> [Second round] Try lpOpenService[dsasvc] with SERVICE_STOP | SERVICE_QUERY_STATUS
+[cmnunins_Uninstall.cpp(1152) 07/25 11:04:54 1358-5bd8] CUninstall::StopAndDeleteService==> [Second round] Try lpOpenService[dsasvc] with SERVICE_STOP | SERVICE_QUERY_STATUS ==> failed
+[cmnunins_Uninstall.cpp(1083) 07/25 11:04:54 1358-5bd8] CUninstall::StopAndDeleteService==>OpenService[SakMFile] fail, ID = 1060
+[cmnunins_Uninstall.cpp(1121) 07/25 11:04:54 1358-5bd8] CUninstall::StopAndDeleteService==> [Second round] Try lpOpenService[SakMFile] with SERVICE_STOP | SERVICE_QUERY_STATUS
+[cmnunins_Uninstall.cpp(1152) 07/25 11:04:54 1358-5bd8] CUninstall::StopAndDeleteService==> [Second round] Try lpOpenService[SakMFile] with SERVICE_STOP | SERVICE_QUERY_STATUS ==> failed
+[cmnunins_Uninstall.cpp(1083) 07/25 11:04:54 1358-5bd8] CUninstall::StopAndDeleteService==>OpenService[SAKFile] fail, ID = 1060
+[cmnunins_Uninstall.cpp(1121) 07/25 11:04:54 1358-5bd8] CUninstall::StopAndDeleteService==> [Second round] Try lpOpenService[SAKFile] with SERVICE_STOP | SERVICE_QUERY_STATUS
+[cmnunins_Uninstall.cpp(1152) 07/25 11:04:54 1358-5bd8] CUninstall::StopAndDeleteService==> [Second round] Try lpOpenService[SAKFile] with SERVICE_STOP | SERVICE_QUERY_STATUS ==> failed
+[cmnunins_Uninstall.cpp(1083) 07/25 11:04:54 1358-5bd8] CUninstall::StopAndDeleteService==>OpenService[SAKNet] fail, ID = 1060
+[cmnunins_Uninstall.cpp(1121) 07/25 11:04:54 1358-5bd8] CUninstall::StopAndDeleteService==> [Second round] Try lpOpenService[SAKNet] with SERVICE_STOP | SERVICE_QUERY_STATUS
+[cmnunins_Uninstall.cpp(1152) 07/25 11:04:54 1358-5bd8] CUninstall::StopAndDeleteService==> [Second round] Try lpOpenService[SAKNet] with SERVICE_STOP | SERVICE_QUERY_STATUS ==> failed
+[cmnunins_Uninstall.cpp(1083) 07/25 11:04:54 1358-5bd8] CUninstall::StopAndDeleteService==>OpenService[SAKCD] fail, ID = 1060
+[cmnunins_Uninstall.cpp(1121) 07/25 11:04:54 1358-5bd8] CUninstall::StopAndDeleteService==> [Second round] Try lpOpenService[SAKCD] with SERVICE_STOP | SERVICE_QUERY_STATUS
+[cmnunins_Uninstall.cpp(1152) 07/25 11:04:54 1358-5bd8] CUninstall::StopAndDeleteService==> [Second round] Try lpOpenService[SAKCD] with SERVICE_STOP | SERVICE_QUERY_STATUS ==> failed
+[cmnunins_Uninstall.cpp(1083) 07/25 11:04:54 1358-5bd8] CUninstall::StopAndDeleteService==>OpenService[TMEBC] fail, ID = 1060
+[cmnunins_Uninstall.cpp(1121) 07/25 11:04:54 1358-5bd8] CUninstall::StopAndDeleteService==> [Second round] Try lpOpenService[TMEBC] with SERVICE_STOP | SERVICE_QUERY_STATUS
+[cmnunins_Uninstall.cpp(1152) 07/25 11:04:54 1358-5bd8] CUninstall::StopAndDeleteService==> [Second round] Try lpOpenService[TMEBC] with SERVICE_STOP | SERVICE_QUERY_STATUS ==> failed
+[cmnunins_Uninstall.cpp(1083) 07/25 11:04:54 1358-5bd8] CUninstall::StopAndDeleteService==>OpenService[tmeevw] fail, ID = 1060
+[cmnunins_Uninstall.cpp(1121) 07/25 11:04:54 1358-5bd8] CUninstall::StopAndDeleteService==> [Second round] Try lpOpenService[tmeevw] with SERVICE_STOP | SERVICE_QUERY_STATUS
+[cmnunins_Uninstall.cpp(1152) 07/25 11:04:54 1358-5bd8] CUninstall::StopAndDeleteService==> [Second round] Try lpOpenService[tmeevw] with SERVICE_STOP | SERVICE_QUERY_STATUS ==> failed
+[cmnunins_Uninstall.cpp(1083) 07/25 11:04:54 1358-5bd8] CUninstall::StopAndDeleteService==>OpenService[tmeext] fail, ID = 1060
+[cmnunins_Uninstall.cpp(1121) 07/25 11:04:54 1358-5bd8] CUninstall::StopAndDeleteService==> [Second round] Try lpOpenService[tmeext] with SERVICE_STOP | SERVICE_QUERY_STATUS
+[cmnunins_Uninstall.cpp(1152) 07/25 11:04:54 1358-5bd8] CUninstall::StopAndDeleteService==> [Second round] Try lpOpenService[tmeext] with SERVICE_STOP | SERVICE_QUERY_STATUS ==> failed
+[cmnunins_Uninstall.cpp(1083) 07/25 11:04:54 1358-5bd8] CUninstall::StopAndDeleteService==>OpenService[tmusa] fail, ID = 1060
+[cmnunins_Uninstall.cpp(1121) 07/25 11:04:54 1358-5bd8] CUninstall::StopAndDeleteService==> [Second round] Try lpOpenService[tmusa] with SERVICE_STOP | SERVICE_QUERY_STATUS
+[cmnunins_Uninstall.cpp(1152) 07/25 11:04:54 1358-5bd8] CUninstall::StopAndDeleteService==> [Second round] Try lpOpenService[tmusa] with SERVICE_STOP | SERVICE_QUERY_STATUS ==> failed
+[cmnunins_Uninstall.cpp(1083) 07/25 11:04:54 1358-5bd8] CUninstall::StopAndDeleteService==>OpenService[tmccsf] fail, ID = 1060
+[cmnunins_Uninstall.cpp(1121) 07/25 11:04:54 1358-5bd8] CUninstall::StopAndDeleteService==> [Second round] Try lpOpenService[tmccsf] with SERVICE_STOP | SERVICE_QUERY_STATUS
+[cmnunins_Uninstall.cpp(1152) 07/25 11:04:54 1358-5bd8] CUninstall::StopAndDeleteService==> [Second round] Try lpOpenService[tmccsf] with SERVICE_STOP | SERVICE_QUERY_STATUS ==> failed
+[cmnunins_Uninstall.cpp(1083) 07/25 11:04:54 1358-5bd8] CUninstall::StopAndDeleteService==>OpenService[tmnciesc] fail, ID = 1060
+[cmnunins_Uninstall.cpp(1121) 07/25 11:04:54 1358-5bd8] CUninstall::StopAndDeleteService==> [Second round] Try lpOpenService[tmnciesc] with SERVICE_STOP | SERVICE_QUERY_STATUS
+[cmnunins_Uninstall.cpp(1152) 07/25 11:04:54 1358-5bd8] CUninstall::StopAndDeleteService==> [Second round] Try lpOpenService[tmnciesc] with SERVICE_STOP | SERVICE_QUERY_STATUS ==> failed
+[cmnunins_Uninstall.cpp(1083) 07/25 11:04:54 1358-5bd8] CUninstall::StopAndDeleteService==>OpenService[discsvc] fail, ID = 1060
+[cmnunins_Uninstall.cpp(1121) 07/25 11:04:54 1358-5bd8] CUninstall::StopAndDeleteService==> [Second round] Try lpOpenService[discsvc] with SERVICE_STOP | SERVICE_QUERY_STATUS
+[cmnunins_Uninstall.cpp(1152) 07/25 11:04:54 1358-5bd8] CUninstall::StopAndDeleteService==> [Second round] Try lpOpenService[discsvc] with SERVICE_STOP | SERVICE_QUERY_STATUS ==> failed
+[cmnunins_Uninstall.cpp(1083) 07/25 11:04:54 1358-5bd8] CUninstall::StopAndDeleteService==>OpenService[tmumh] fail, ID = 5
+[cmnunins_Uninstall.cpp(1114) 07/25 11:04:54 1358-5bd8] CUninstall::StopAndDeleteService==>Try OpenService[tmumh] again ==> fail, ID = 5
+[cmnunins_Uninstall.cpp(1121) 07/25 11:04:54 1358-5bd8] CUninstall::StopAndDeleteService==> [Second round] Try lpOpenService[tmumh] with SERVICE_STOP | SERVICE_QUERY_STATUS
+[cmnunins_Uninstall.cpp(1129) 07/25 11:04:54 1358-5bd8] CUninstall::StopAndDeleteService==> [Second round] Try stop[tmumh] by lpControlService ==> success
+[cmnunins_Uninstall.cpp(1140) 07/25 11:04:54 1358-5bd8] CUninstall::StopAndDeleteService==> [Second round] Try DeleteService[tmumh] again ==> fail, ID = 5
+[cmnunins_Uninstall.cpp(947) 07/25 11:04:54 1358-5bd8] service tmumh stop failed, try to delete it
+[cmnunins_Uninstall.cpp(825) 07/25 11:04:54 1358-5bd8] open service (tmumh) FAILED, GetLastError() = 29
+[cmnunins_Uninstall.cpp(978) 07/25 11:04:54 1358-5bd8] Can't delete tmumh:0, retry.
+[cmnunins_Uninstall.cpp(825) 07/25 11:04:55 1358-5bd8] open service (tmumh) FAILED, GetLastError() = 28
+[cmnunins_Uninstall.cpp(978) 07/25 11:04:55 1358-5bd8] Can't delete tmumh:0, retry.
+[cmnunins_Uninstall.cpp(825) 07/25 11:04:56 1358-5bd8] open service (tmumh) FAILED, GetLastError() = 27
+[cmnunins_Uninstall.cpp(978) 07/25 11:04:56 1358-5bd8] Can't delete tmumh:0, retry.
+[cmnunins_Uninstall.cpp(825) 07/25 11:04:57 1358-5bd8] open service (tmumh) FAILED, GetLastError() = 26
+[cmnunins_Uninstall.cpp(978) 07/25 11:04:57 1358-5bd8] Can't delete tmumh:0, retry.
+[cmnunins_Uninstall.cpp(825) 07/25 11:04:58 1358-5bd8] open service (tmumh) FAILED, GetLastError() = 25
+[cmnunins_Uninstall.cpp(978) 07/25 11:04:58 1358-5bd8] Can't delete tmumh:0, retry.
+[cmnunins_Uninstall.cpp(825) 07/25 11:04:59 1358-5bd8] open service (tmumh) FAILED, GetLastError() = 24
+[cmnunins_Uninstall.cpp(978) 07/25 11:04:59 1358-5bd8] Can't delete tmumh:0, retry.
+[cmnunins_Uninstall.cpp(825) 07/25 11:05:00 1358-5bd8] open service (tmumh) FAILED, GetLastError() = 23
+[cmnunins_Uninstall.cpp(978) 07/25 11:05:00 1358-5bd8] Can't delete tmumh:0, retry.
+[cmnunins_Uninstall.cpp(825) 07/25 11:05:01 1358-5bd8] open service (tmumh) FAILED, GetLastError() = 22
+[cmnunins_Uninstall.cpp(978) 07/25 11:05:01 1358-5bd8] Can't delete tmumh:0, retry.
+[cmnunins_Uninstall.cpp(825) 07/25 11:05:02 1358-5bd8] open service (tmumh) FAILED, GetLastError() = 21
+[cmnunins_Uninstall.cpp(978) 07/25 11:05:02 1358-5bd8] Can't delete tmumh:0, retry.
+[cmnunins_Uninstall.cpp(825) 07/25 11:05:03 1358-5bd8] open service (tmumh) FAILED, GetLastError() = 20
+[cmnunins_Uninstall.cpp(978) 07/25 11:05:03 1358-5bd8] Can't delete tmumh:0, retry.
+[cmnunins_Uninstall.cpp(825) 07/25 11:05:04 1358-5bd8] open service (tmumh) FAILED, GetLastError() = 19
+[cmnunins_Uninstall.cpp(978) 07/25 11:05:04 1358-5bd8] Can't delete tmumh:0, retry.
+[cmnunins_Uninstall.cpp(825) 07/25 11:05:05 1358-5bd8] open service (tmumh) FAILED, GetLastError() = 18
+[cmnunins_Uninstall.cpp(978) 07/25 11:05:05 1358-5bd8] Can't delete tmumh:0, retry.
+[cmnunins_Uninstall.cpp(825) 07/25 11:05:06 1358-5bd8] open service (tmumh) FAILED, GetLastError() = 17
+[cmnunins_Uninstall.cpp(978) 07/25 11:05:06 1358-5bd8] Can't delete tmumh:0, retry.
+[cmnunins_Uninstall.cpp(825) 07/25 11:05:07 1358-5bd8] open service (tmumh) FAILED, GetLastError() = 16
+[cmnunins_Uninstall.cpp(978) 07/25 11:05:07 1358-5bd8] Can't delete tmumh:0, retry.
+[cmnunins_Uninstall.cpp(825) 07/25 11:05:08 1358-5bd8] open service (tmumh) FAILED, GetLastError() = 15
+[cmnunins_Uninstall.cpp(978) 07/25 11:05:08 1358-5bd8] Can't delete tmumh:0, retry.
+[cmnunins_Uninstall.cpp(825) 07/25 11:05:09 1358-5bd8] open service (tmumh) FAILED, GetLastError() = 14
+[cmnunins_Uninstall.cpp(978) 07/25 11:05:09 1358-5bd8] Can't delete tmumh:0, retry.
+[cmnunins_Uninstall.cpp(825) 07/25 11:05:10 1358-5bd8] open service (tmumh) FAILED, GetLastError() = 13
+[cmnunins_Uninstall.cpp(978) 07/25 11:05:10 1358-5bd8] Can't delete tmumh:0, retry.
+[cmnunins_Uninstall.cpp(825) 07/25 11:05:11 1358-5bd8] open service (tmumh) FAILED, GetLastError() = 12
+[cmnunins_Uninstall.cpp(978) 07/25 11:05:11 1358-5bd8] Can't delete tmumh:0, retry.
+[cmnunins_Uninstall.cpp(825) 07/25 11:05:12 1358-5bd8] open service (tmumh) FAILED, GetLastError() = 11
+[cmnunins_Uninstall.cpp(978) 07/25 11:05:12 1358-5bd8] Can't delete tmumh:0, retry.
+[cmnunins_Uninstall.cpp(825) 07/25 11:05:13 1358-5bd8] open service (tmumh) FAILED, GetLastError() = 10
+[cmnunins_Uninstall.cpp(978) 07/25 11:05:13 1358-5bd8] Can't delete tmumh:0, retry.
+[cmnunins_Uninstall.cpp(825) 07/25 11:05:14 1358-5bd8] open service (tmumh) FAILED, GetLastError() = 9
+[cmnunins_Uninstall.cpp(978) 07/25 11:05:14 1358-5bd8] Can't delete tmumh:0, retry.
+[cmnunins_Uninstall.cpp(825) 07/25 11:05:15 1358-5bd8] open service (tmumh) FAILED, GetLastError() = 8
+[cmnunins_Uninstall.cpp(978) 07/25 11:05:15 1358-5bd8] Can't delete tmumh:0, retry.
+[cmnunins_Uninstall.cpp(825) 07/25 11:05:16 1358-5bd8] open service (tmumh) FAILED, GetLastError() = 7
+[cmnunins_Uninstall.cpp(978) 07/25 11:05:16 1358-5bd8] Can't delete tmumh:0, retry.
+[cmnunins_Uninstall.cpp(825) 07/25 11:05:17 1358-5bd8] open service (tmumh) FAILED, GetLastError() = 6
+[cmnunins_Uninstall.cpp(978) 07/25 11:05:17 1358-5bd8] Can't delete tmumh:0, retry.
+[cmnunins_Uninstall.cpp(825) 07/25 11:05:18 1358-5bd8] open service (tmumh) FAILED, GetLastError() = 5
+[cmnunins_Uninstall.cpp(978) 07/25 11:05:18 1358-5bd8] Can't delete tmumh:0, retry.
+[cmnunins_Uninstall.cpp(825) 07/25 11:05:19 1358-5bd8] open service (tmumh) FAILED, GetLastError() = 4
+[cmnunins_Uninstall.cpp(978) 07/25 11:05:19 1358-5bd8] Can't delete tmumh:0, retry.
+[cmnunins_Uninstall.cpp(825) 07/25 11:05:20 1358-5bd8] open service (tmumh) FAILED, GetLastError() = 3
+[cmnunins_Uninstall.cpp(978) 07/25 11:05:20 1358-5bd8] Can't delete tmumh:0, retry.
+[cmnunins_Uninstall.cpp(825) 07/25 11:05:21 1358-5bd8] open service (tmumh) FAILED, GetLastError() = 2
+[cmnunins_Uninstall.cpp(978) 07/25 11:05:21 1358-5bd8] Can't delete tmumh:0, retry.
+[cmnunins_Uninstall.cpp(825) 07/25 11:05:22 1358-5bd8] open service (tmumh) FAILED, GetLastError() = 1
+[cmnunins_Uninstall.cpp(978) 07/25 11:05:22 1358-5bd8] Can't delete tmumh:0, retry.
+[cmnunins_Uninstall.cpp(825) 07/25 11:05:23 1358-5bd8] open service (tmumh) FAILED, GetLastError() = 0
+[cmnunins_Uninstall.cpp(978) 07/25 11:05:23 1358-5bd8] Can't delete tmumh:0, retry.
+[cmnunins_Uninstall.cpp(1083) 07/25 11:05:25 1358-5bd8] CUninstall::StopAndDeleteService==>OpenService[tmel] fail, ID = 1060
+[cmnunins_Uninstall.cpp(1121) 07/25 11:05:25 1358-5bd8] CUninstall::StopAndDeleteService==> [Second round] Try lpOpenService[tmel] with SERVICE_STOP | SERVICE_QUERY_STATUS
+[cmnunins_Uninstall.cpp(1152) 07/25 11:05:25 1358-5bd8] CUninstall::StopAndDeleteService==> [Second round] Try lpOpenService[tmel] with SERVICE_STOP | SERVICE_QUERY_STATUS ==> failed
+[cmnunins_Uninstall.cpp(1083) 07/25 11:05:25 1358-5bd8] CUninstall::StopAndDeleteService==>OpenService[TMiACAgentSvc] fail, ID = 1060
+[cmnunins_Uninstall.cpp(1121) 07/25 11:05:25 1358-5bd8] CUninstall::StopAndDeleteService==> [Second round] Try lpOpenService[TMiACAgentSvc] with SERVICE_STOP | SERVICE_QUERY_STATUS
+[cmnunins_Uninstall.cpp(1152) 07/25 11:05:25 1358-5bd8] CUninstall::StopAndDeleteService==> [Second round] Try lpOpenService[TMiACAgentSvc] with SERVICE_STOP | SERVICE_QUERY_STATUS ==> failed
+[cmnunins_Uninstall.cpp(1083) 07/25 11:05:25 1358-5bd8] CUninstall::StopAndDeleteService==>OpenService[Acdriver] fail, ID = 1060
+[cmnunins_Uninstall.cpp(1121) 07/25 11:05:25 1358-5bd8] CUninstall::StopAndDeleteService==> [Second round] Try lpOpenService[Acdriver] with SERVICE_STOP | SERVICE_QUERY_STATUS
+[cmnunins_Uninstall.cpp(1152) 07/25 11:05:25 1358-5bd8] CUninstall::StopAndDeleteService==> [Second round] Try lpOpenService[Acdriver] with SERVICE_STOP | SERVICE_QUERY_STATUS ==> failed
+[cmnunins_Uninstall.cpp(1083) 07/25 11:05:25 1358-5bd8] CUninstall::StopAndDeleteService==>OpenService[Acdriverhelper] fail, ID = 1060
+[cmnunins_Uninstall.cpp(1121) 07/25 11:05:25 1358-5bd8] CUninstall::StopAndDeleteService==> [Second round] Try lpOpenService[Acdriverhelper] with SERVICE_STOP | SERVICE_QUERY_STATUS
+[cmnunins_Uninstall.cpp(1152) 07/25 11:05:25 1358-5bd8] CUninstall::StopAndDeleteService==> [Second round] Try lpOpenService[Acdriverhelper] with SERVICE_STOP | SERVICE_QUERY_STATUS ==> failed
+[cmnunins_Uninstall.cpp(1083) 07/25 11:05:25 1358-5bd8] CUninstall::StopAndDeleteService==>OpenService[iVPAgent] fail, ID = 1060
+[cmnunins_Uninstall.cpp(1121) 07/25 11:05:25 1358-5bd8] CUninstall::StopAndDeleteService==> [Second round] Try lpOpenService[iVPAgent] with SERVICE_STOP | SERVICE_QUERY_STATUS
+[cmnunins_Uninstall.cpp(1152) 07/25 11:05:25 1358-5bd8] CUninstall::StopAndDeleteService==> [Second round] Try lpOpenService[iVPAgent] with SERVICE_STOP | SERVICE_QUERY_STATUS ==> failed
+[cmnunins_Uninstall.cpp(1083) 07/25 11:05:25 1358-5bd8] CUninstall::StopAndDeleteService==>OpenService[tbimdsa] fail, ID = 1060
+[cmnunins_Uninstall.cpp(1121) 07/25 11:05:25 1358-5bd8] CUninstall::StopAndDeleteService==> [Second round] Try lpOpenService[tbimdsa] with SERVICE_STOP | SERVICE_QUERY_STATUS
+[cmnunins_Uninstall.cpp(1152) 07/25 11:05:25 1358-5bd8] CUninstall::StopAndDeleteService==> [Second round] Try lpOpenService[tbimdsa] with SERVICE_STOP | SERVICE_QUERY_STATUS ==> failed
+[cmnunins_Uninstall.cpp(1083) 07/25 11:05:25 1358-5bd8] CUninstall::StopAndDeleteService==>OpenService[TMESE] fail, ID = 1060
+[cmnunins_Uninstall.cpp(1121) 07/25 11:05:25 1358-5bd8] CUninstall::StopAndDeleteService==> [Second round] Try lpOpenService[TMESE] with SERVICE_STOP | SERVICE_QUERY_STATUS
+[cmnunins_Uninstall.cpp(1152) 07/25 11:05:25 1358-5bd8] CUninstall::StopAndDeleteService==> [Second round] Try lpOpenService[TMESE] with SERVICE_STOP | SERVICE_QUERY_STATUS ==> failed
+[cmnunins_Uninstall.cpp(1083) 07/25 11:05:25 1358-5bd8] CUninstall::StopAndDeleteService==>OpenService[TMESC] fail, ID = 1060
+[cmnunins_Uninstall.cpp(1121) 07/25 11:05:25 1358-5bd8] CUninstall::StopAndDeleteService==> [Second round] Try lpOpenService[TMESC] with SERVICE_STOP | SERVICE_QUERY_STATUS
+[cmnunins_Uninstall.cpp(1152) 07/25 11:05:25 1358-5bd8] CUninstall::StopAndDeleteService==> [Second round] Try lpOpenService[TMESC] with SERVICE_STOP | SERVICE_QUERY_STATUS ==> failed
+[cmnunins_Uninstall.cpp(1083) 07/25 11:05:25 1358-5bd8] CUninstall::StopAndDeleteService==>OpenService[tmescore] fail, ID = 1060
+[cmnunins_Uninstall.cpp(1121) 07/25 11:05:25 1358-5bd8] CUninstall::StopAndDeleteService==> [Second round] Try lpOpenService[tmescore] with SERVICE_STOP | SERVICE_QUERY_STATUS
+[cmnunins_Uninstall.cpp(1152) 07/25 11:05:25 1358-5bd8] CUninstall::StopAndDeleteService==> [Second round] Try lpOpenService[tmescore] with SERVICE_STOP | SERVICE_QUERY_STATUS ==> failed
+[cmnunins_Uninstall.cpp(1083) 07/25 11:05:25 1358-5bd8] CUninstall::StopAndDeleteService==>OpenService[tmesflt] fail, ID = 1060
+[cmnunins_Uninstall.cpp(1121) 07/25 11:05:25 1358-5bd8] CUninstall::StopAndDeleteService==> [Second round] Try lpOpenService[tmesflt] with SERVICE_STOP | SERVICE_QUERY_STATUS
+[cmnunins_Uninstall.cpp(1152) 07/25 11:05:25 1358-5bd8] CUninstall::StopAndDeleteService==> [Second round] Try lpOpenService[tmesflt] with SERVICE_STOP | SERVICE_QUERY_STATUS ==> failed
+[cmnunins_Uninstall.cpp(1083) 07/25 11:05:25 1358-5bd8] CUninstall::StopAndDeleteService==>OpenService[tmesutil] fail, ID = 1060
+[cmnunins_Uninstall.cpp(1121) 07/25 11:05:25 1358-5bd8] CUninstall::StopAndDeleteService==> [Second round] Try lpOpenService[tmesutil] with SERVICE_STOP | SERVICE_QUERY_STATUS
+[cmnunins_Uninstall.cpp(1152) 07/25 11:05:25 1358-5bd8] CUninstall::StopAndDeleteService==> [Second round] Try lpOpenService[tmesutil] with SERVICE_STOP | SERVICE_QUERY_STATUS ==> failed
+[cmnunins_Uninstall.cpp(1083) 07/25 11:05:25 1358-5bd8] CUninstall::StopAndDeleteService==>OpenService[ATASAgent] fail, ID = 1060
+[cmnunins_Uninstall.cpp(1121) 07/25 11:05:25 1358-5bd8] CUninstall::StopAndDeleteService==> [Second round] Try lpOpenService[ATASAgent] with SERVICE_STOP | SERVICE_QUERY_STATUS
+[cmnunins_Uninstall.cpp(1152) 07/25 11:05:25 1358-5bd8] CUninstall::StopAndDeleteService==> [Second round] Try lpOpenService[ATASAgent] with SERVICE_STOP | SERVICE_QUERY_STATUS ==> failed
+[cmnunins_Uninstall.cpp(1083) 07/25 11:05:25 1358-5bd8] CUninstall::StopAndDeleteService==>OpenService[dlpnetfltr] fail, ID = 1060
+[cmnunins_Uninstall.cpp(1121) 07/25 11:05:25 1358-5bd8] CUninstall::StopAndDeleteService==> [Second round] Try lpOpenService[dlpnetfltr] with SERVICE_STOP | SERVICE_QUERY_STATUS
+[cmnunins_Uninstall.cpp(1152) 07/25 11:05:25 1358-5bd8] CUninstall::StopAndDeleteService==> [Second round] Try lpOpenService[dlpnetfltr] with SERVICE_STOP | SERVICE_QUERY_STATUS ==> failed
+[cmnunins_Uninstall.cpp(1083) 07/25 11:05:25 1358-5bd8] CUninstall::StopAndDeleteService==>OpenService[tmproxy] fail, ID = 1060
+[cmnunins_Uninstall.cpp(1121) 07/25 11:05:25 1358-5bd8] CUninstall::StopAndDeleteService==> [Second round] Try lpOpenService[tmproxy] with SERVICE_STOP | SERVICE_QUERY_STATUS
+[cmnunins_Uninstall.cpp(1152) 07/25 11:05:25 1358-5bd8] CUninstall::StopAndDeleteService==> [Second round] Try lpOpenService[tmproxy] with SERVICE_STOP | SERVICE_QUERY_STATUS ==> failed
+[cmnunins_Uninstall.cpp(1083) 07/25 11:05:25 1358-5bd8] CUninstall::StopAndDeleteService==>OpenService[tmcomm] fail, ID = 1060
+[cmnunins_Uninstall.cpp(1121) 07/25 11:05:25 1358-5bd8] CUninstall::StopAndDeleteService==> [Second round] Try lpOpenService[tmcomm] with SERVICE_STOP | SERVICE_QUERY_STATUS
+[cmnunins_Uninstall.cpp(1152) 07/25 11:05:25 1358-5bd8] CUninstall::StopAndDeleteService==> [Second round] Try lpOpenService[tmcomm] with SERVICE_STOP | SERVICE_QUERY_STATUS ==> failed
+[cmnunins_Uninstall.cpp(1083) 07/25 11:05:25 1358-5bd8] CUninstall::StopAndDeleteService==>OpenService[AOTAgentSvc] fail, ID = 1060
+[cmnunins_Uninstall.cpp(1121) 07/25 11:05:25 1358-5bd8] CUninstall::StopAndDeleteService==> [Second round] Try lpOpenService[AOTAgentSvc] with SERVICE_STOP | SERVICE_QUERY_STATUS
+[cmnunins_Uninstall.cpp(1152) 07/25 11:05:25 1358-5bd8] CUninstall::StopAndDeleteService==> [Second round] Try lpOpenService[AOTAgentSvc] with SERVICE_STOP | SERVICE_QUERY_STATUS ==> failed
+[cmnunins_Uninstall.cpp(943) 07/25 11:05:25 1358-5bd8] service TmWSCSvc STOPPED but still exist, try to delete it
+[cmnunins_Uninstall.cpp(978) 07/25 11:05:25 1358-5bd8] Can't delete TmWSCSvc:0, retry.
+[cmnunins_Uninstall.cpp(978) 07/25 11:05:26 1358-5bd8] Can't delete TmWSCSvc:0, retry.
+[cmnunins_Uninstall.cpp(978) 07/25 11:05:27 1358-5bd8] Can't delete TmWSCSvc:0, retry.
+[cmnunins_Uninstall.cpp(978) 07/25 11:05:28 1358-5bd8] Can't delete TmWSCSvc:0, retry.
+[cmnunins_Uninstall.cpp(978) 07/25 11:05:29 1358-5bd8] Can't delete TmWSCSvc:0, retry.
+[cmnunins_Uninstall.cpp(978) 07/25 11:05:30 1358-5bd8] Can't delete TmWSCSvc:0, retry.
+[cmnunins_Uninstall.cpp(978) 07/25 11:05:31 1358-5bd8] Can't delete TmWSCSvc:0, retry.
+[cmnunins_Uninstall.cpp(978) 07/25 11:05:32 1358-5bd8] Can't delete TmWSCSvc:0, retry.
+[cmnunins_Uninstall.cpp(978) 07/25 11:05:33 1358-5bd8] Can't delete TmWSCSvc:0, retry.
+[cmnunins_Uninstall.cpp(978) 07/25 11:05:34 1358-5bd8] Can't delete TmWSCSvc:0, retry.
+[cmnunins_Uninstall.cpp(978) 07/25 11:05:35 1358-5bd8] Can't delete TmWSCSvc:0, retry.
+[cmnunins_Uninstall.cpp(978) 07/25 11:05:36 1358-5bd8] Can't delete TmWSCSvc:0, retry.
+[cmnunins_Uninstall.cpp(978) 07/25 11:05:37 1358-5bd8] Can't delete TmWSCSvc:0, retry.
+[cmnunins_Uninstall.cpp(978) 07/25 11:05:38 1358-5bd8] Can't delete TmWSCSvc:0, retry.
+[cmnunins_Uninstall.cpp(978) 07/25 11:05:39 1358-5bd8] Can't delete TmWSCSvc:0, retry.
+[cmnunins_Uninstall.cpp(978) 07/25 11:05:40 1358-5bd8] Can't delete TmWSCSvc:0, retry.
+[cmnunins_Uninstall.cpp(978) 07/25 11:05:41 1358-5bd8] Can't delete TmWSCSvc:0, retry.
+[cmnunins_Uninstall.cpp(978) 07/25 11:05:42 1358-5bd8] Can't delete TmWSCSvc:0, retry.
+[cmnunins_Uninstall.cpp(978) 07/25 11:05:43 1358-5bd8] Can't delete TmWSCSvc:0, retry.
+[cmnunins_Uninstall.cpp(978) 07/25 11:05:44 1358-5bd8] Can't delete TmWSCSvc:0, retry.
+[cmnunins_Uninstall.cpp(978) 07/25 11:05:45 1358-5bd8] Can't delete TmWSCSvc:0, retry.
+[cmnunins_Uninstall.cpp(978) 07/25 11:05:46 1358-5bd8] Can't delete TmWSCSvc:0, retry.
+[cmnunins_Uninstall.cpp(978) 07/25 11:05:47 1358-5bd8] Can't delete TmWSCSvc:0, retry.
+[cmnunins_Uninstall.cpp(978) 07/25 11:05:48 1358-5bd8] Can't delete TmWSCSvc:0, retry.
+[cmnunins_Uninstall.cpp(978) 07/25 11:05:49 1358-5bd8] Can't delete TmWSCSvc:0, retry.
+[cmnunins_Uninstall.cpp(978) 07/25 11:05:50 1358-5bd8] Can't delete TmWSCSvc:0, retry.
+[cmnunins_Uninstall.cpp(978) 07/25 11:05:51 1358-5bd8] Can't delete TmWSCSvc:0, retry.
+[cmnunins_Uninstall.cpp(978) 07/25 11:05:52 1358-5bd8] Can't delete TmWSCSvc:0, retry.
+[cmnunins_Uninstall.cpp(978) 07/25 11:05:53 1358-5bd8] Can't delete TmWSCSvc:0, retry.
+[cmnunins_Uninstall.cpp(978) 07/25 11:05:54 1358-5bd8] Can't delete TmWSCSvc:0, retry.
+[cmnunins_Uninstall.cpp(943) 07/25 11:05:55 1358-5bd8] service TmWSCSvc STOPPED but still exist, try to delete it
+[cmnunins_Uninstall.cpp(978) 07/25 11:05:55 1358-5bd8] Can't delete TmWSCSvc:0, retry.
+[cmnunins_Uninstall.cpp(978) 07/25 11:05:56 1358-5bd8] Can't delete TmWSCSvc:0, retry.
+[cmnunins_Uninstall.cpp(978) 07/25 11:05:57 1358-5bd8] Can't delete TmWSCSvc:0, retry.
+[cmnunins_Uninstall.cpp(978) 07/25 11:05:58 1358-5bd8] Can't delete TmWSCSvc:0, retry.
+[cmnunins_Uninstall.cpp(978) 07/25 11:05:59 1358-5bd8] Can't delete TmWSCSvc:0, retry.
+[cmnunins_Uninstall.cpp(978) 07/25 11:06:00 1358-5bd8] Can't delete TmWSCSvc:0, retry.
+[cmnunins_Uninstall.cpp(978) 07/25 11:06:01 1358-5bd8] Can't delete TmWSCSvc:0, retry.
+[cmnunins_Uninstall.cpp(978) 07/25 11:06:02 1358-5bd8] Can't delete TmWSCSvc:0, retry.
+[cmnunins_Uninstall.cpp(978) 07/25 11:06:03 1358-5bd8] Can't delete TmWSCSvc:0, retry.
+[cmnunins_Uninstall.cpp(978) 07/25 11:06:04 1358-5bd8] Can't delete TmWSCSvc:0, retry.
+[cmnunins_Uninstall.cpp(978) 07/25 11:06:05 1358-5bd8] Can't delete TmWSCSvc:0, retry.
+[cmnunins_Uninstall.cpp(978) 07/25 11:06:06 1358-5bd8] Can't delete TmWSCSvc:0, retry.
+[cmnunins_Uninstall.cpp(978) 07/25 11:06:07 1358-5bd8] Can't delete TmWSCSvc:0, retry.
+[cmnunins_Uninstall.cpp(978) 07/25 11:06:08 1358-5bd8] Can't delete TmWSCSvc:0, retry.
+[cmnunins_Uninstall.cpp(978) 07/25 11:06:09 1358-5bd8] Can't delete TmWSCSvc:0, retry.
+[cmnunins_Uninstall.cpp(978) 07/25 11:06:10 1358-5bd8] Can't delete TmWSCSvc:0, retry.
+[cmnunins_Uninstall.cpp(978) 07/25 11:06:11 1358-5bd8] Can't delete TmWSCSvc:0, retry.
+[cmnunins_Uninstall.cpp(978) 07/25 11:06:12 1358-5bd8] Can't delete TmWSCSvc:0, retry.
+[cmnunins_Uninstall.cpp(978) 07/25 11:06:13 1358-5bd8] Can't delete TmWSCSvc:0, retry.
+[cmnunins_Uninstall.cpp(978) 07/25 11:06:14 1358-5bd8] Can't delete TmWSCSvc:0, retry.
+[cmnunins_Uninstall.cpp(978) 07/25 11:06:15 1358-5bd8] Can't delete TmWSCSvc:0, retry.
+[cmnunins_Uninstall.cpp(978) 07/25 11:06:16 1358-5bd8] Can't delete TmWSCSvc:0, retry.
+[cmnunins_Uninstall.cpp(978) 07/25 11:06:17 1358-5bd8] Can't delete TmWSCSvc:0, retry.
+[cmnunins_Uninstall.cpp(978) 07/25 11:06:18 1358-5bd8] Can't delete TmWSCSvc:0, retry.
+[cmnunins_Uninstall.cpp(978) 07/25 11:06:19 1358-5bd8] Can't delete TmWSCSvc:0, retry.
+[cmnunins_Uninstall.cpp(978) 07/25 11:06:20 1358-5bd8] Can't delete TmWSCSvc:0, retry.
+[cmnunins_Uninstall.cpp(978) 07/25 11:06:21 1358-5bd8] Can't delete TmWSCSvc:0, retry.
+[cmnunins_Uninstall.cpp(978) 07/25 11:06:22 1358-5bd8] Can't delete TmWSCSvc:0, retry.
+[cmnunins_Uninstall.cpp(978) 07/25 11:06:23 1358-5bd8] Can't delete TmWSCSvc:0, retry.
+[cmnunins_Uninstall.cpp(978) 07/25 11:06:24 1358-5bd8] Can't delete TmWSCSvc:0, retry.
+[cmnunins_Uninstall.cpp(943) 07/25 11:06:25 1358-5bd8] service TmWSCSvc STOPPED but still exist, try to delete it
+[cmnunins_Uninstall.cpp(978) 07/25 11:06:25 1358-5bd8] Can't delete TmWSCSvc:0, retry.
+[cmnunins_Uninstall.cpp(978) 07/25 11:06:26 1358-5bd8] Can't delete TmWSCSvc:0, retry.
+[cmnunins_Uninstall.cpp(978) 07/25 11:06:27 1358-5bd8] Can't delete TmWSCSvc:0, retry.
+[cmnunins_Uninstall.cpp(978) 07/25 11:06:28 1358-5bd8] Can't delete TmWSCSvc:0, retry.
+[cmnunins_Uninstall.cpp(978) 07/25 11:06:29 1358-5bd8] Can't delete TmWSCSvc:0, retry.
+[cmnunins_Uninstall.cpp(978) 07/25 11:06:30 1358-5bd8] Can't delete TmWSCSvc:0, retry.
+[cmnunins_Uninstall.cpp(978) 07/25 11:06:31 1358-5bd8] Can't delete TmWSCSvc:0, retry.
+[cmnunins_Uninstall.cpp(978) 07/25 11:06:32 1358-5bd8] Can't delete TmWSCSvc:0, retry.
+[cmnunins_Uninstall.cpp(978) 07/25 11:06:33 1358-5bd8] Can't delete TmWSCSvc:0, retry.
+[cmnunins_Uninstall.cpp(978) 07/25 11:06:34 1358-5bd8] Can't delete TmWSCSvc:0, retry.
+[cmnunins_Uninstall.cpp(978) 07/25 11:06:35 1358-5bd8] Can't delete TmWSCSvc:0, retry.
+[cmnunins_Uninstall.cpp(978) 07/25 11:06:36 1358-5bd8] Can't delete TmWSCSvc:0, retry.
+[cmnunins_Uninstall.cpp(978) 07/25 11:06:37 1358-5bd8] Can't delete TmWSCSvc:0, retry.
+[cmnunins_Uninstall.cpp(978) 07/25 11:06:38 1358-5bd8] Can't delete TmWSCSvc:0, retry.
+[cmnunins_Uninstall.cpp(978) 07/25 11:06:39 1358-5bd8] Can't delete TmWSCSvc:0, retry.
+[cmnunins_Uninstall.cpp(978) 07/25 11:06:40 1358-5bd8] Can't delete TmWSCSvc:0, retry.
+[cmnunins_Uninstall.cpp(978) 07/25 11:06:41 1358-5bd8] Can't delete TmWSCSvc:0, retry.
+[cmnunins_Uninstall.cpp(978) 07/25 11:06:42 1358-5bd8] Can't delete TmWSCSvc:0, retry.
+[cmnunins_Uninstall.cpp(978) 07/25 11:06:43 1358-5bd8] Can't delete TmWSCSvc:0, retry.
+[cmnunins_Uninstall.cpp(978) 07/25 11:06:44 1358-5bd8] Can't delete TmWSCSvc:0, retry.
+[cmnunins_Uninstall.cpp(978) 07/25 11:06:45 1358-5bd8] Can't delete TmWSCSvc:0, retry.
+[cmnunins_Uninstall.cpp(978) 07/25 11:06:46 1358-5bd8] Can't delete TmWSCSvc:0, retry.
+[cmnunins_Uninstall.cpp(978) 07/25 11:06:47 1358-5bd8] Can't delete TmWSCSvc:0, retry.
+[cmnunins_Uninstall.cpp(978) 07/25 11:06:48 1358-5bd8] Can't delete TmWSCSvc:0, retry.
+[cmnunins_Uninstall.cpp(978) 07/25 11:06:49 1358-5bd8] Can't delete TmWSCSvc:0, retry.
+[cmnunins_Uninstall.cpp(978) 07/25 11:06:50 1358-5bd8] Can't delete TmWSCSvc:0, retry.
+[cmnunins_Uninstall.cpp(978) 07/25 11:06:51 1358-5bd8] Can't delete TmWSCSvc:0, retry.
+[cmnunins_Uninstall.cpp(978) 07/25 11:06:52 1358-5bd8] Can't delete TmWSCSvc:0, retry.
+[cmnunins_Uninstall.cpp(978) 07/25 11:06:53 1358-5bd8] Can't delete TmWSCSvc:0, retry.
+[cmnunins_Uninstall.cpp(978) 07/25 11:06:54 1358-5bd8] Can't delete TmWSCSvc:0, retry.
+[cmnunins_Uninstall.cpp(943) 07/25 11:06:55 1358-5bd8] service TmWSCSvc STOPPED but still exist, try to delete it
+[cmnunins_Uninstall.cpp(978) 07/25 11:06:55 1358-5bd8] Can't delete TmWSCSvc:0, retry.
+[cmnunins_Uninstall.cpp(978) 07/25 11:06:56 1358-5bd8] Can't delete TmWSCSvc:0, retry.
+[cmnunins_Uninstall.cpp(978) 07/25 11:06:57 1358-5bd8] Can't delete TmWSCSvc:0, retry.
+[cmnunins_Uninstall.cpp(978) 07/25 11:06:58 1358-5bd8] Can't delete TmWSCSvc:0, retry.
+[cmnunins_Uninstall.cpp(978) 07/25 11:06:59 1358-5bd8] Can't delete TmWSCSvc:0, retry.
+[cmnunins_Uninstall.cpp(978) 07/25 11:07:00 1358-5bd8] Can't delete TmWSCSvc:0, retry.
+[cmnunins_Uninstall.cpp(978) 07/25 11:07:01 1358-5bd8] Can't delete TmWSCSvc:0, retry.
+[cmnunins_Uninstall.cpp(978) 07/25 11:07:02 1358-5bd8] Can't delete TmWSCSvc:0, retry.
+[cmnunins_Uninstall.cpp(978) 07/25 11:07:03 1358-5bd8] Can't delete TmWSCSvc:0, retry.
+[cmnunins_Uninstall.cpp(978) 07/25 11:07:04 1358-5bd8] Can't delete TmWSCSvc:0, retry.
+[cmnunins_Uninstall.cpp(978) 07/25 11:07:05 1358-5bd8] Can't delete TmWSCSvc:0, retry.
+[cmnunins_Uninstall.cpp(978) 07/25 11:07:06 1358-5bd8] Can't delete TmWSCSvc:0, retry.
+[cmnunins_Uninstall.cpp(978) 07/25 11:07:07 1358-5bd8] Can't delete TmWSCSvc:0, retry.
+[cmnunins_Uninstall.cpp(978) 07/25 11:07:08 1358-5bd8] Can't delete TmWSCSvc:0, retry.
+[cmnunins_Uninstall.cpp(978) 07/25 11:07:09 1358-5bd8] Can't delete TmWSCSvc:0, retry.
+[cmnunins_Uninstall.cpp(978) 07/25 11:07:10 1358-5bd8] Can't delete TmWSCSvc:0, retry.
+[cmnunins_Uninstall.cpp(978) 07/25 11:07:11 1358-5bd8] Can't delete TmWSCSvc:0, retry.
+[cmnunins_Uninstall.cpp(978) 07/25 11:07:12 1358-5bd8] Can't delete TmWSCSvc:0, retry.
+[cmnunins_Uninstall.cpp(978) 07/25 11:07:13 1358-5bd8] Can't delete TmWSCSvc:0, retry.
+[cmnunins_Uninstall.cpp(978) 07/25 11:07:14 1358-5bd8] Can't delete TmWSCSvc:0, retry.
+[cmnunins_Uninstall.cpp(978) 07/25 11:07:15 1358-5bd8] Can't delete TmWSCSvc:0, retry.
+[cmnunins_Uninstall.cpp(978) 07/25 11:07:17 1358-5bd8] Can't delete TmWSCSvc:0, retry.
+[cmnunins_Uninstall.cpp(978) 07/25 11:07:18 1358-5bd8] Can't delete TmWSCSvc:0, retry.
+[cmnunins_Uninstall.cpp(978) 07/25 11:07:19 1358-5bd8] Can't delete TmWSCSvc:0, retry.
+[cmnunins_Uninstall.cpp(978) 07/25 11:07:20 1358-5bd8] Can't delete TmWSCSvc:0, retry.
+[cmnunins_Uninstall.cpp(978) 07/25 11:07:21 1358-5bd8] Can't delete TmWSCSvc:0, retry.
+[cmnunins_Uninstall.cpp(978) 07/25 11:07:22 1358-5bd8] Can't delete TmWSCSvc:0, retry.
+[cmnunins_Uninstall.cpp(978) 07/25 11:07:23 1358-5bd8] Can't delete TmWSCSvc:0, retry.
+[cmnunins_Uninstall.cpp(978) 07/25 11:07:24 1358-5bd8] Can't delete TmWSCSvc:0, retry.
+[cmnunins_Uninstall.cpp(978) 07/25 11:07:25 1358-5bd8] Can't delete TmWSCSvc:0, retry.
+[cmnunins_Uninstall.cpp(1162) 07/25 11:07:26 1358-5bd8] Out--CUninstall::StopAndDeleteService
+[cmnunins_Uninstall.cpp(33) 07/25 11:07:26 1358-5bd8] In--CUninstall::UnRegisterCom
+[cmnunins_Uninstall.cpp(98) 07/25 11:07:26 1358-5bd8] CUninstall::UnRegisterCom==>CLibraryHandle(C:\Program Files (x86)\Trend Micro\Security Agent\TmdShell.dll) fail, msg = CLibraryHandleException: Error : 126, Description : The specified module could not be found.
+, Path = C:\Program Files (x86)\Trend Micro\Security Agent\TmdShell.dll
+[cmnunins_Uninstall.cpp(111) 07/25 11:07:26 1358-5bd8] Out--CUninstall::UnRegisterCom
+[cmnunins_Uninstall.cpp(1167) 07/25 11:07:26 1358-5bd8] In--CUninstall::UninstallActiveXControls
+[cmnunins_Uninstall.cpp(1191) 07/25 11:07:26 1358-5bd8] Out--CUninstall::UninstallActiveXControls
+[cmnunins_Uninstall.cpp(144) 07/25 11:07:26 1358-5bd8] In--CUninstall::UninstallFolderAndShortcut
+[cmnunins_Uninstall.cpp(193) 07/25 11:07:26 1358-5bd8] CUninstall::UninstallFolderAndShortcut==>DeleteDirectory(C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Trend Micro OfficeScan Agent) fail
+[cmnunins_Uninstall.cpp(197) 07/25 11:07:26 1358-5bd8] CUninstall::UninstallFolderAndShortcut==>Msg: Error : -1, Description : (null)
+[cmnunins_Uninstall.cpp(193) 07/25 11:07:26 1358-5bd8] CUninstall::UninstallFolderAndShortcut==>DeleteDirectory(C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Trend Micro Apex One Security Agent) fail
+[cmnunins_Uninstall.cpp(197) 07/25 11:07:26 1358-5bd8] CUninstall::UninstallFolderAndShortcut==>Msg: Error : -1, Description : (null)
+[cmnunins_Uninstall.cpp(275) 07/25 11:07:26 1358-5bd8] Out--CUninstall::UninstallFolderAndShortcut
+[cmnunins_Uninstall.cpp(280) 07/25 11:07:26 1358-5bd8] In--CUninstall::DeleteRegistries
